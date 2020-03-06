@@ -131,8 +131,8 @@ const pointsList = [
       "measurement" : "TE-017",
       "panelId": 21,
       "position" : {
-        "top" : "68",
-        "left" : "44"
+        "top" : "55",
+        "left" : "45"
       },
     },
     {
@@ -428,6 +428,30 @@ const pointsList = [
       "position" : {
         "top" : "77",
         "left" : "26"
+      },
+    },
+    {
+      "measurement" : "TE-020",
+      "panelId": 55,
+      "position" : {
+        "top" : "74",
+        "left" : "47.5"
+      },
+    },
+    {
+      "measurement" : "TE-021",
+      "panelId": 51,
+      "position" : {
+        "top" : "68",
+        "left" : "44.5"
+      },
+    },
+    {
+      "measurement" : "TE-022",
+      "panelId": 62,
+      "position" : {
+        "top" : "74",
+        "left" : "41.5"
       },
     }
 ];
